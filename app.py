@@ -25,6 +25,7 @@ plots_folder = "plots"
 st.set_page_config(page_title="Traffic in Copenhagen",layout="wide")
 st.title("How traffic spreads throughout Copenhagen")
 st.caption("By Astrid Machholm and Julius Olander")
+st.write("Link to the project report: https://github.com/Machholm/social_data_viz/blob/main/notebook.ipynb")
 
 # introduction
 st.write("Copenhagen is the city over half a million people call home, while over 62 million overnight stays are spent by tourists from around the world each year [1]. Citizens commuting to and from work and tourists exploring the city’s many blooming cultural and gastronomic locations present great logistical mobility challenges with regard to city infrastructure. As in many other cities, Copenhagen commuting is done by walking on foot, driving by car, and taking public transport such as buses and trains. But what makes Copenhagen truly special is its municipality’s massive efforts towards becoming “the world’s best bicycling city” as part of its strategy to become more carbon neutral, and reduce noise pollution and traffic bottlenecks, while furthering public health. On an average day, over 1.4 million kilometers are traveled by bike collectively, and the city houses over 745.000 bikes and more than 380 kilometers of bike lanes [2].")
